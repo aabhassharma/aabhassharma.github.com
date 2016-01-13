@@ -8,7 +8,23 @@ tagline: Welcome to Aabhas's Page!
 Welcome to Aabhas Sharma's Github page! 
 This site has been made possible thanks to the awesome folks behind <a href="http://jekyllbootstrap.com/">Jekyl</a>!
 
-## Posts
+## Hardware Posts
+
+<ul class="posts">
+  {% for post in site.posts.hardware %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+## Tools Posts
+
+<ul class="posts">
+  {% for post in site.posts.tools %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+## All Posts
 
 <ul class="posts">
   {% for post in site.posts %}
