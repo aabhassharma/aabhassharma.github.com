@@ -8,7 +8,7 @@ tagline: Welcome to Aabhas's Page!
 Welcome to Aabhas Sharma's Github page! 
 This site has been made possible thanks to the awesome folks behind <a href="http://jekyllbootstrap.com/">Jekyl</a>!
 
-Here's a little bit <a href="{{BASE_PATH}}/pages/about">about me</a> :) 
+<a href="{{BASE_PATH}}/pages/about">Here's</a> a little bit about me :) 
 
 ## Posts
 
