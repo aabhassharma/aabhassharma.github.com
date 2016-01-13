@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The beginning of a new era.."
-description: ""
-category: 
-tags: []
+description: "Back to blogging and writing code"
+category:excuses 
+tags: [blog, raspberrypi, hardware, automation, IOT]
 ---
 {% include JB/setup %}
 
@@ -22,3 +22,7 @@ Postmates, and now I'm doing all things infra at Postmates! Thanks to all these 
 boards sat collecting dust.
 
 ## What now?
+Now that my life is relatively more stable, I'm back to blogging, and home-automating!! And since everything was sitting 
+collecting dust for a while, its time to start afresh! New hardware, new software, and, a brand spanking new blog!
+
+## Stay Tuned! ##
