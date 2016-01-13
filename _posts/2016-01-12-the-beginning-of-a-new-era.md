@@ -25,4 +25,4 @@ boards sat collecting dust.
 Now that my life is relatively more stable, I'm back to blogging, and home-automating!! And since everything was sitting 
 collecting dust for a while, its time to start afresh! New hardware, new software, and, a brand spanking new blog!
 
-## Stay Tuned!
+Stay tuned!
