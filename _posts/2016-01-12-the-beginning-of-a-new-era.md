@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The beginning of a new era.."
+title: "The beginning of a new era..."
 description: "Back to blogging and writing code"
 category: 
 tags: [blog, raspberrypi, hardware, automation, IOT]
